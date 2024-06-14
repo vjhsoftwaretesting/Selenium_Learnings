@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T16:43:08 IST" name="Default suite" finished-at="2024-06-14T16:43:09 IST" duration-ms="381">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T16:43:08 IST" name="Default test" finished-at="2024-06-14T16:43:09 IST" duration-ms="381">
+      <class name="dataDrivenConcept.DataProvider_JXL">
+        <test-method signature="cr_Ins(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:dataDrivenConcept.DataProvider_JXL@1e6a3214]" started-at="2024-06-14T16:43:09 IST" name="cr_Ins" data-provider="loginDataProvider" finished-at="2024-06-14T16:43:09 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sikkan Hospital_15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SKK15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sikkan15@mailinator.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bethel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cr_Ins -->
+      </class> <!-- dataDrivenConcept.DataProvider_JXL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
